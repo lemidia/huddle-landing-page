@@ -1,8 +1,6 @@
-# 7일 동안 하루에 하나씩 웹 사이트 랜딩 페이지를 만들어 봅시다.
+## 7일 동안 하루에 하나씩 웹 사이트 랜딩 페이지를 만들어 봅시다.
 
-- huddle landing page
-
-이 프로젝트는 유튜버 Florin pop에 진행되었으며, Frontend Mentor 사이트에 있는 프로젝트들을 가지고 진행합니다.
+- huddle landing page : 이 프로젝트는 유튜버 Florin pop에 진행되었으며, Frontend Mentor 사이트에 있는 프로젝트들을 가지고 진행합니다.
 
 ## Demo, 실행 방법
 
