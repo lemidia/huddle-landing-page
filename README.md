@@ -6,19 +6,19 @@
 
 이 프로젝트는 유튜버 Florin pop에 진행되었으며, Frontend Mentor 사이트에 있는 프로젝트들을 가지고 진행합니다.
 
-## Demo, 실행 방법
-
-- 이 저장소를 클론하여, 압축을 푼 다음,  index.html 파일을 실행시켜 주세요.
-
 ## 프로젝트 따라하기
 
-- [해당 프로젝트 기초파일](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100) 
+다음 링크를 따라가셔서 프로젝트에 필요한 이미지와 텍스트 그리고 가이드라인이 들어있는 파일을 다운로드 할 수 있습니다.
 
-위 링크를 따라가셔서 프로젝트에 필요한 이미지와 텍스트 그리고 가이드라인이 들어있는 파일을 다운로드 할 수 있습니다.
+[해당 프로젝트 기초파일](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100) 
 
-프로젝트는 유튜버 플로린 팝에 의해서도 실시간으로 진행된 것이 있으니 같이 따라하셔도 좋습니다. 
+이 프로젝트는 유튜버 Florin pop에 의해서도 실시간으로 진행되었으니 같이 따라하셔도 좋습니다. 
 
 [유튜브에서 이 프로젝트 같이 실습하기](https://www.youtube.com/watch?v=wnb-BfjR-oo&t=1027s)
+
+## 결과 프로젝트 실행 방법
+
+저장소를 클론하여, 압축을 푼 다음, index.html 파일을 실행시켜 주세요.
 
 밑은 프로젝트의 README.md 입니다.
 
