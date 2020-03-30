@@ -1,6 +1,10 @@
-## 7일 동안 하루에 하나씩 웹 사이트 랜딩 페이지를 만들어 봅시다.
+# Frontend Mentor - Huddle landing page with alternating feature blocks
 
-- huddle landing page : 이 프로젝트는 유튜버 Florin pop에 진행되었으며, Frontend Mentor 사이트에 있는 프로젝트들을 가지고 진행합니다.
+7일 동안 하루에 하나씩 웹 사이트 랜딩 페이지를 만들어 봅시다.
+
+1일차 : huddle landing page 
+
+이 프로젝트는 유튜버 Florin pop에 진행되었으며, Frontend Mentor 사이트에 있는 프로젝트들을 가지고 진행합니다.
 
 ## Demo, 실행 방법
 
@@ -14,9 +18,9 @@
 
 프로젝트는 유튜버 플로린 팝에 의해서도 실시간으로 진행된 것이 있으니 같이 따라하셔도 좋습니다. 
 
-- [유튜브에서 이 프로젝트 같이 실습하기](https://www.youtube.com/watch?v=wnb-BfjR-oo&t=1027s)
+[유튜브에서 이 프로젝트 같이 실습하기](https://www.youtube.com/watch?v=wnb-BfjR-oo&t=1027s)
 
-# Frontend Mentor - Huddle landing page with alternating feature blocks
+밑은 프로젝트의 README.md 입니다.
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
